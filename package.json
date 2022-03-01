@@ -1,8 +1,12 @@
 {
   "name": "eslint-config-kjema",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "prettier.json"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/kjema/eslint-config-kjema"
