@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kjema/eslint-config-kjema"
   },
+  "bugs": {
+    "url": "https://github.com/kjema/eslint-config-kjema/issues"
+  },
+  "homepage": "https://github.com/kjema/eslint-config-kjema#readme",
   "author": "Marcus Kjell",
   "license": "MIT",
   "dependencies": {
@@ -20,5 +25,8 @@
     "next": ">=12.0.0",
     "prettier": ">=2.5.0",
     "typescript": ">=4.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
