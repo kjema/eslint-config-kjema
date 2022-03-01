@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Marcus Kjell",
   "license": "MIT",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.13.0",
