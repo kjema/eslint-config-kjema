@@ -12,3 +12,11 @@ $ npm install eslint-config-kjema --save-dev
   "extends": "kjema"
 }
 ```
+
+```sh
+// package.json
+{
+  ...
+  "prettier": "eslint-config-kjema/prettier"
+}
+```
